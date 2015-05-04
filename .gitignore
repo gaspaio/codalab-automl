@@ -1,0 +1,14 @@
+*.zip
+res_15-*
+doc/*
+submissions/*
+*.pyc
+*/.ipynb_checkpoints*
+temp/*
+*.md
+code/res/*
+output_*
+data/*
+data_all/*
+Starting_Kit/*
+sample_code_hackathon/*
