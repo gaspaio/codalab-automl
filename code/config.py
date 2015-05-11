@@ -2,8 +2,8 @@
 import os
 
 CONFIG = {
-    "version": "0.3",
-    "codename": "RFW_FTW",
+    "version": "0.3.1",
+    "codename": "RFE_2p",
     "datasets": ["christine", "jasmine", "madeline", "philippine", "sylvine"],
     "random_seed": 1,
     "n_jobs": -1,

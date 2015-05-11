@@ -3,7 +3,7 @@
 import numpy as np
 from sklearn.base import BaseEstimator
 from sklearn.feature_selection.base import SelectorMixin
-from sklearn.utils.validation import check_array, check_is_fitted
+from .sklearn_validation import check_array, check_is_fitted
 
 
 class SelectIndependent(BaseEstimator, SelectorMixin):
